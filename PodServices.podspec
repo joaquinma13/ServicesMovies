@@ -8,7 +8,7 @@ s.summary = "Pod de Servicios"
 s.requires_arc = true
 
 # 2
-s.version = "0.1.0"
+s.version = "0.0.1"
 
 # 3
 s.license = { :type => "MIT", :file => "LICENSE" }
@@ -33,6 +33,6 @@ s.source_files = "PodServices/**/*.{swift}"
 s.resources = "PodServices/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
 
 # 10
-s.swift_version = "5"
+s.swift_version = "5.0"
 
 end
